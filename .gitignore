@@ -1,0 +1,7 @@
+# Build
+build
+
+# VScode user settings
+.vscode/*
+!.vscode/launch.json
+
